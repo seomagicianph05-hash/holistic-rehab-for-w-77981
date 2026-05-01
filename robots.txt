@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seomagicianph05-hash.github.io/holistic-rehab-for-w-77981/sitemap.xml
